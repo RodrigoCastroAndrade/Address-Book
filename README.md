@@ -5,3 +5,6 @@ This code is from a tutorial on how to use the Qt framework with Visual Studio i
 https://doc.qt.io/qtvstools/qtvstools-qt-widgets-application.html
 
 I followed this tutorial for my own practice, as I plan to use the Qt framework in a future personal project.
+
+[![Video](https://youtu.be/Zr29RBdm8-E)](https://youtu.be/Zr29RBdm8-E)
+
