@@ -6,3 +6,4 @@ https://doc.qt.io/qtvstools/qtvstools-qt-widgets-application.html
 
 I followed this tutorial for my own practice, as I plan to use the Qt framework in a future personal project.
 
+[![Video](https://1drv.ms/u/s!AjPUuG8ARRn6nFNR74MLJ5gUoXTP?e=udw8Za)](https://1drv.ms/u/s!AjPUuG8ARRn6nFNR74MLJ5gUoXTP?e=udw8Za)
