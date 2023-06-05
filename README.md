@@ -6,4 +6,4 @@ https://doc.qt.io/qtvstools/qtvstools-qt-widgets-application.html
 
 I followed this tutorial for my own practice, as I plan to use the Qt framework in a future personal project.
 
-[![Video](https://1drv.ms/u/s!AjPUuG8ARRn6nFNR74MLJ5gUoXTP?e=udw8Za)](https://1drv.ms/u/s!AjPUuG8ARRn6nFNR74MLJ5gUoXTP?e=udw8Za)
+[adress-book-qt-tutorial-example.webm](https://github.com/RodrigoCastroAndrade/Address-Book-Widget/assets/130337859/15f19e48-49d4-4c53-a32f-b7440bfc0a4b)
